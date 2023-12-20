@@ -17,31 +17,29 @@
 <!-- Form -->
 <br></br>
 <div class="container">
-    <div class=" mb-3">
-        <label for="formGroupExampleInput" class="form-label">Example label</label>
-        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input placeholder">
-    </div>
-    <div class="mb-3">
-        <label for="formGroupExampleInput2" class="form-label">Another label</label>
-        <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input placeholder">
-    </div>
-    <div class="mb-3">
-        <label for="formGroupExampleInput2" class="form-label">Another label</label>
-        <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input placeholder">
-    </div>
-    <div class="mb-3">
-        <label for="formGroupExampleInput2" class="form-label">Another label</label>
-        <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input placeholder">
-    </div>
-    <div class="d-flex justify-content-center mb-2">
-        <button type="submit" class="btn btn-dark">Estimasi</button>
-        <button type="submit" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#login">Masuk Sebagai Admin</button>
-    </div>
+    <form action="<?php base_url('/estimasiProduk') ?>" method="post">
+        <div class=" mb-3">
+            <label for="kulit" class="form-label">Kulit</label>
+            <input type="text" class="form-control" id="kulit" name="kulit" placeholder="Panjang Kulit yang dibtutuhkan(cm)">
+        </div>
+        <div class="mb-3">
+            <label for="waktu" class="form-label">Waktu</label>
+            <input type="text" class="form-control" id="waktu" name="waktu" placeholder="Waktu Yang dibutuhkan">
+        </div>
+        <div class="mb-3">
+            <label for="cat" class="form-label">Cat</label>
+            <input type="text" class="form-control" id="cat" name="cat" placeholder="Cat yang dibutuhkan">
+        </div>
+        <div class="d-flex justify-content-center mb-2">
+            <button type="submit" class="btn btn-dark" name="btnhitung">Estimasi</button>
+            <!-- <button type="submit" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#login">Masuk Sebagai Admin</button> -->
+        </div>
+    </form>
 </div>
 <!-- end Form -->
 
 <!-- Modal Login -->
-<div class="modal" tabindex="-1" id="login">
+<!-- <div class="modal" tabindex="-1" id="login">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -65,6 +63,6 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Modal -->
 <?php $this->endSection() ?>
