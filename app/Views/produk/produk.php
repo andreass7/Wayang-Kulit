@@ -35,11 +35,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/portfolio-1.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Wayang 1</h4>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            <a href="assets/img/portfolio/portfolio-1.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="#" i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang1" title="More Details"></i></a>
                         </div>
                     </div>
@@ -48,11 +48,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/portfolio-3.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Wayang 2</h4>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            <a href="assets/img/portfolio/portfolio-3.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="#" title="More Details"><i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang1"></i></a>
                         </div>
                     </div>
@@ -61,11 +61,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/portfolio-6.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Wayang 3</h4>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            <a href="assets/img/portfolio/portfolio-6.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="#" title="More Details"><i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang1"></i></a>
                         </div>
                     </div>
@@ -74,11 +74,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/portfolio-7.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Card 1</h4>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            <a href="assets/img/portfolio/portfolio-7.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -87,11 +87,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/portfolio-4.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Card 2</h4>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            <a href="assets/img/portfolio/portfolio-4.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -101,11 +101,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/portfolio-8.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Card 3</h4>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            <a href="assets/img/portfolio/portfolio-8.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>

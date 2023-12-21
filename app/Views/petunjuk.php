@@ -17,25 +17,25 @@
             <div class="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay="100">
                 <span>02</span>
                 <h4>About</h4>
-                <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+                <p>Merupakan halaman penjelasan mengenai wayang kulit ledjar</p>
             </div>
 
             <div class="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay="200">
                 <span>03</span>
                 <h4> Produk</h4>
-                <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                <p>Produk yang dihasilkan berupa wayang kulit dengan bentuk rupa kisah jawa</p>
             </div>
 
             <div class="col-lg-6 col-md-6 content-item" data-aos="fade-in" data-aos-delay="300">
                 <span>04</span>
                 <h4>Estimasi Produk</h4>
-                <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
+                <p>Perkiraan perhitungan dengan menggunakan metode eliminasi gauss dalam pembuatan wayang ledjar</p>
             </div>
 
             <div class="col-lg-6 col-md-6 content-item" data-aos="fade-in" data-aos-delay="400">
                 <span>05</span>
                 <h4>Team</h4>
-                <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
+                <p>data diri dari creator website dan perhitungan web serta dosen pembimbing</p>
             </div>
 
         </div>
