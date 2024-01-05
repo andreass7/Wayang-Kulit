@@ -69,7 +69,7 @@
                     <li class="dropdown"><a href="#"><span>Produk</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="<?= base_url('/produk') ?>">Produk</a></li>
-                            <li><a href="<?= base_url('/estimasip') ?>">Estimasi Produk</a></li>
+                            <li><a href="<?= base_url('/login') ?>">Estimasi Produk</a></li>
 
                         </ul>
                     </li>

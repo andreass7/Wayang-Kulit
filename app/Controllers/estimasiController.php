@@ -4,10 +4,10 @@ namespace App\Controllers;
 
 class estimasiController extends BaseController
 {
-    public function index(): string
-    {
-        return view('produk/estimasip');
-    }
+    // public function index(): string
+    // {
+    //     return view('produk/estimasip');
+    // }
 
     public function gauss()
     {
@@ -30,7 +30,10 @@ class estimasiController extends BaseController
 
         // Matrik Awal
 
-        echo "<div class='container'";
+        echo "<div class='container'>";
+        echo "<hr>";
+        echo "<br>";
+        echo "<hr>";
 
         $kulit = $_POST['kulit'];
         $waktu = $_POST['waktu'];
@@ -42,7 +45,7 @@ class estimasiController extends BaseController
             [3, 4, 2, $cat]
         ];
 
-        echo "Matriks Awal";
+        echo "<h3>MATRIK AWAL</h3>";
         tabel($matriks);
 
         //Langkah 1
@@ -51,6 +54,7 @@ class estimasiController extends BaseController
         }
 
         $matriks[0] = array_replace($matriks[0], $row0[0]);
+        echo "<h5>LANGKAH KE-1 </h5>";
         echo "Membuat baris 1 kolom 1 menjadi 1";
         tabel($matriks);
 
@@ -72,6 +76,7 @@ class estimasiController extends BaseController
         }
 
         $matriks[1] = array_replace($matriks[1], $row1[1]);
+        echo "<h5>LANGKAH KE-2 </h5>";
         echo "membuat baris 2 kolom 2 menjadi 1";
         tabel($matriks);
 
@@ -90,9 +95,9 @@ class estimasiController extends BaseController
         }
 
         $matriks[2] = array_replace($matriks[2], $row2[2]);
+        echo "<h5>LANGKAH KE-3 </h5>";
         echo "membuat baris 3 kolom 3 menjadi 1";
         tabel($matriks);
-
 
         for ($i = 1; $i <= count($matriks); $i++) {
             $row0[0][$i] = $matriks[0][$i] - ($matriks[0][2] * $matriks[2][$i]);

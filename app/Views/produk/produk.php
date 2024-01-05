@@ -37,7 +37,7 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/portfolio-1.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Wayang 1</h4>
+                        <h4>Wayang Gatot Kaca</h4>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/portfolio-1.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             <a href="#" i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang1" title="More Details"></i></a>
@@ -50,10 +50,10 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/portfolio-3.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Wayang 2</h4>
+                        <h4>Wayang Buto Geni</h4>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/portfolio-3.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            <a href="#" title="More Details"><i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang1"></i></a>
+                            <a href="#" title="More Details"><i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -63,10 +63,10 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/portfolio-6.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Wayang 3</h4>
+                        <h4>Wayang Kresna</h4>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/portfolio-6.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            <a href="#" title="More Details"><i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang1"></i></a>
+                            <a href="#" title="More Details"><i class="bx bx-link" data-bs-toggle="modal" data-bs-target="#wayang3"></i></a>
                         </div>
                     </div>
                 </div>
@@ -76,10 +76,9 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/portfolio-7.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Card 1</h4>
+                        <h4>Dokumentasi 1</h4>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/portfolio-7.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
@@ -89,10 +88,9 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/portfolio-4.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Card 2</h4>
+                        <h4>Dokumentasi 2</h4>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/portfolio-4.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
@@ -103,10 +101,9 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/portfolio-8.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Card 3</h4>
+                        <h4>Dokumentasi 3</h4>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/portfolio-8.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
@@ -117,44 +114,24 @@
     </div>
 </section><!-- End Produk Section -->
 
-<!-- Modal -->
+<!-- Modal Gatot Kaca -->
 <div class="modal fade" id="wayang1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 class="modal-title fs-5" id="wayang1">Wayang 1</h1>
+                <h1 class="modal-title fs-5" id="wayang1"></h1>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <div class="row">
-
-                    <div class="col-sm-12">
-                        <div class="portfolio-details-slider swiper">
-                            <div class="swiper-wrapper align-items-center">
-
-                                <div class="swiper-slide">
-                                    <img src="assets/img/portfolio/w1.jpg" alt="">
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="mb-5">
                         <div class="portfolio-info">
-                            <h3>Project information</h3>
+                            <h3>Wayang Gatot Kaca</h3>
                             <ul>
-                                <li><strong>Category</strong>: Web design</li>
-                                <li><strong>Client</strong>: ASU Company</li>
-                                <li><strong>Project date</strong>: 01 March, 2020</li>
-                                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                                <li><strong>Kulit yang dibutuhkan</strong>: 60 cm</li>
+                                <li><strong>Cat warna yang dibutuhkan</strong>: 8 Jenis Warna </li>
+                                <li><strong>Waktu Pengerjaan</strong>: 3 bulan</li>
                             </ul>
-                        </div>
-                        <div class="portfolio-description">
-                            <h2>This is an example of portfolio detail</h2>
-                            <p>
-                                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -163,4 +140,55 @@
     </div>
 </div>
 
+<!-- Modal Buto Geni -->
+<div class="modal fade" id="wayang2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="wayang2"></h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="mb-5">
+                        <div class="portfolio-info">
+                            <h3>Wayang Buto Geni</h3>
+                            <ul>
+                                <li><strong>Kulit yang dibutuhkan</strong>: 70 cm</li>
+                                <li><strong>Cat warna yang dibutuhkan</strong>: 7 Jenis Warna </li>
+                                <li><strong>Waktu Pengerjaan</strong>: 4 bulan</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Gatot Kaca -->
+<div class="modal fade" id="wayang3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="wayang3"></h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="mb-5">
+                        <div class="portfolio-info">
+                            <h3>Wayang Kresna</h3>
+                            <ul>
+                                <li><strong>Kulit yang dibutuhkan</strong>: 50 cm</li>
+                                <li><strong>Cat warna yang dibutuhkan</strong>: 7 Jenis Warna </li>
+                                <li><strong>Waktu Pengerjaan</strong>: 2 bulan</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <?php $this->endSection() ?>
